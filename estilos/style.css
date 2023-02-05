@@ -46,7 +46,7 @@ section#login > div#imagem{
     display: block;
     background: #5f2c82 url(../imagens/metal.jpg) no-repeat;
     background-size: cover;
-    background-position: bottom top;
+    background-position: center 100%;
     height: 200px;
 }
 
